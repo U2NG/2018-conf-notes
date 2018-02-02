@@ -1,0 +1,14 @@
+---
+title: "RStudio Conf. 2018 Notes"
+output: html_notebook
+---
+
+
+Conference Website:
+https://www.rstudio.com/conference/#conference
+
+Dianne Cook - Keynote 
+To the Tidyverse and Beyond: Challenges for the Future in Data Science 
+
+
+
