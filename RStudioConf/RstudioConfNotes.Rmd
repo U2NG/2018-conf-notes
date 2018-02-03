@@ -7,8 +7,301 @@ output: html_notebook
 Conference Website:
 https://www.rstudio.com/conference/#conference
 
-Dianne Cook - Keynote 
+
+# Rstudio Conf. Day 1
+---
+### To the Tidyverse and Beyond: Challenges for the Future in Data Science 
+### Dianne Cook
+
+
 To the Tidyverse and Beyond: Challenges for the Future in Data Science 
+
+visual inference protocol
+p-hacking 
+think about interactive graphics and inference procedures as part of the data pipeline
+
+GG provides the fucntional mapping of variable to plot element that makes data plots become statistices that we can do inference on. wihc what 
+
+xaringan package used to make slides 
+
+catch box mics 
+
+
+```{r}
+# install xaringan to try
+devtools::install_github('yihui/xaringan')
+```
+
+packages to look up:
+blogdown
+
+
+# session 1
+---
+
+### Tidy spatial data analysis 
+### Edzer Pebesma
+
+Package info:
+sf package (Simple Features)
+mapview package - interactive maps 
+raster package 
+stars
+
+simple features fo spatial data
+features -
+simple features - geometric attributes
+
+operatoins on geometries:
+single 
+pairs/ses
+
+package sf - stroes simple geometries in lists
+sfg: geometry for one feature
+
+#rspatial community 
+
+---
+
+### The future of time series and financial analysis in the tidyverse 
+### Davis Vaughan
+gh: DavisVaughn
+[business-science.io](http://www.business-science.io)
+[github.com/business-science/presentation](http://github.com/business-science/presentation)
+
+build packages 
+Business science university 
+xts vs tibble
+
+package tidyquant - convert xts to tibble
+quickly pull business financial data to tibble 
+slow conversion 
+limited functionality 
+
+tibbletime package - extensions of tidy verse for timeaware tibbles through time series objects 
+
+perform time-bases amnip on tibbles 
+
+`collapes_by` function in tibbletime 
+
+mapping packages ggmap, gganimate 
+
+`rollify` function - takes a function and calls it back 
+
+
+
+---
+### infer: a package for tidy statistical inference 
+### Andrew Bray
+
+packages:
+infer  
+simulation through permutation
+chi-squared
+
+conducting statistica inference 
+infer.netify.com
+bit.ly/2DYoBOz
+
+---
+### Tidying up your network analysis with tidygraph and ggraph 
+### Thomas Lin Pedersen
+@thomasp85
+
+
+network analysis workflow 
+
+packages:
+tidygraph - 
+ggraph - viz data over ggplot2
+
+
+network data, different data concept 
+
+std workflow:
+readr, tidy, dplyr, ggplot 
+
+network analysis:
+readr, tidygraph, ggraph
+
+tidygraph extension of dyply verbs 
+base is igraph package
+`tbl_graph`
+
+web scraping Marvel universe site 
+
+look up tidygraph functions
+ ggraph call - data agnostic 
+ hairballs, hierarchies, hives graphs 
+ 
+
+
+---
+# Session 2
+
+
+### R Markdown: Eight ways 
+### Mine Cetinkaya-Rundel
+bit.ly/
+
+packages:
+tint package
+
+
+workflow for doing things in RStudio:
+
+notebook
+html
+xaringan
+blogdown
+gh-doc
+pdf
+shiny
+bookdown
+
+
+students turn in on github 
+
+
+---
+
+### Creating interactive web graphics suitable for exploratory data analysis 
+### Carson Sievert
+
+---
+
+
+### Beyond R: Using R Markdown with python, sql, bash, and more
+### Aaron Berg
+
+db.rstudio.com
+
+multilingual Rmarkdown
+
+packages:
+tidyverse
+reticulate
+jsonlite
+tidytext - for text analysis 
+
+gutenberg
+
+reticulate::use_python('python path', required = TRUE)
+
+
+
+```{bash}
+pwd
+```
+
+```{r}
+getwd()
+```
+
+
+```{python}
+
+print "Hello, Python"
+```
+
+
+### Branding and automating your work with R Markdown 
+### Daniel Hadley
+
+branding images 
+Magick function - put gifs on top of plots 
+
+
+---
+
+weekly hours worked data averages artilce goverining.com
+### Tidy eval: programming with dplyr, tidyr, and ggplot2
+### Hadley Wickham
+
+
+tidy eval 
+save typing and translate 
+
+!! tidyverse can use to unquote
+
+r code is a tree 
+build tress by unquoting
+ expr() captures your expression 
+ exper() supports unqupting - simplifying expression 
+ 
+capture user input by qupting 
+
+enexpr() lets you wupte user expressios 
+
+tidy eval lets you reduce duplication 
+
+
+---
+
+### Connecting to open source databases
+### Kirill Müller
+
+packages:
+RSQLite
+RPostgres - literals 
+RMariaDB
+Rkazam
+DBItest - testthat, roxygen2
+
+bigquery, civis, MonetDBLIte, odbc, RClickhouse 
+
+bit64 - 64bit intergers if needed data type 
+
+
+R database interface DBI
+
+quoting of identifiers and strings and literals 
+distinction between queries and statements 
+
+
+
+---
+
+### Best practices for working with databases 
+### Edgar Ruiz
+
+packages:
+DBI
+odbc
+dplyr
+dbplyr
+dbplot - new package release - cretes histograms in ggplot object 
+shinydashboard - creates dashboard
+purrr
+shiny
+highcharacter
+DT
+htmltools
+
+
+sample flight data on SQL server 
+
+dplyr translate to SQL
+take advantage of piped code 
+all code is in R 
+
+---
+
+# RStudio Conf Day 2
+---
+
+### Machine Learning with R and TensorFlow 
+### JJ Allaire
+
+Packages:
+
+
+
+
+
+
+
+
 
 
 
