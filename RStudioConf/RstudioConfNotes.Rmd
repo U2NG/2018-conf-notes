@@ -168,6 +168,24 @@ students turn in on github
 ### Creating interactive web graphics suitable for exploratory data analysis 
 ### Carson Sievert
 
+packages:
+Crosstalk package
+Trelliscope.js
+Plotly 
+
+Geomsf
+Ggplotly
+
+Data examples 
+mtcars
+Gapminder 
+
+Crosstalk linking time series 
+also works with shiny
+
+Github. Compare cpsievert/zikar, apps
+Polyjs
+
 ---
 
 
@@ -293,7 +311,335 @@ all code is in R
 ### Machine Learning with R and TensorFlow 
 ### JJ Allaire
 
-Packages:
+packages:
+keras package
+tfestimators
+tensorflow
+lime
+tfruns
+cloudml
+tfdeploy
+
+
+
+
+
+creator of the Rstudio IDE, Rmarkdown pckg
+tendorflow OpSrc from google 
+R interface with tensorflow
+deep learning uses 
+
+tensorflow - general purpose numerical computing library
+developed by google brain team for conduction machine learning 
+
+can run on :
+CPU
+GPU
+TPU tensor processing unit - google dev. 
+
+supports auto differentiation 
+doesn't require all data in RAM 
+
+tendorflow models can be deployed with a low latency C++
+
+Tensorflow basics:
+tensors - data stored in multidimiensional arrays 
+e.g. tensor data- vector data, (iris) 
+timeseries data or sequence data - observations overtime 
+4d tensor- image data 
+
+What is flow:
+dataflow graph with n nodes representing units of computation 
+
+tensorflow or dataflow graph is generated auto from R code 
+graphs gain in performance, scalability, portability 
+
+uses of Tensorflow:
+tensorflow.rstudio.com/gallery
+
+deep learning, machine learning 
+
+E.g. Greta project 
+greta-dev.github.io/greta  - writing stat models 
+
+deeplearning - input and putput via layers of representation 
+data transformation functions parameterized by weights 
+layer geometric transformaiton function on the data 
+taking data - transoformations to get out close to output 
+
+transformain ginput data into useful representations
+
+layers of representation in a deep learning model -feature transformations are learned 
+
+deep learning - multiple layers of representation 
+
+other namesL 
+layered represntaitons learning 
+hierarchical representation of learning 
+
+deep learning examples:
+autonomous cars
+human-speech level recog. 
+
+R uses for deep learning 
+does deep learning improve current R processes e.g. improving modeling 
+is deep learning applicable 
+
+how to train deep learning:
+machine learning algorithms 
+learning model parameters via exposure to many example data points 
+eval. model and tweak it over time 
+
+stat modeling vs. machine learning 
+stats - 
+machine - prediciting future data 
+
+papers written about deep learning:
+VGG millions of parameters - for computer vision 
+computer vision
+dl.acm.org/citation.cfm?id=2999257
+
+arxiv.org/abs/1708.02709
+
+time series 
+ieeexplore.ieee.org/document/7870510
+
+biomedical applications 
+paper
+
+electronic health records (EHR)
+arxiv.org/abs/1801.07860
+
+problems with deep learning:
+not easily interpreted 
+brittle, adversarial examples 
+requires large amount of data to performwel
+
+computationally expensive to train 
+
+deep learning hype makes things worse
+will be trolled by bad deep learning models 
+
+
+keras api - promoted by google for interfacing with tensorflow, used a lot in research 
+pre-process
+model 
+compile model
+model tarining 
+
+
+GPU processing
+tensorflow.rstudio.com/tools/gpu
+
+deploying models:
+tensorflow serving - google
+
+takeaways:
+tensorflow is a new gen purpose numerical computing library
+
+deep leaerning has made great progress 
+
+R has a great set of apis for using tensorflow 
+
+---
+
+automl google service - in research
+
+rstd.io/ml-with-tensorflow-and-r
+tensorflow.rstudio.com/blog
+
+
+---
+
+### Teach the Tidyverse to beginners 
+### David Robinson
+varianceexplained.org
+
+packages:
+Fs- file system 
+
+why teach the tidyverse
+
+good way for students to understand thier data
+
+datacamp - intro to the tidyverse 
+data wrangline 
+data viz - bring in as early as possible 
+grouping summarizing 
+types of viz 
+
+case studies
+data cleaning and summ with dplyr
+ggplote
+tidy with broom 
+joining and tidy
+
+tidy shows results immediately 
+consistency in interface with functions 
+
+what is the trade off for teaching the tidyverse:
+topics taught later 
+data sturctures 
+loops
+conditionals 
+user-defined functions 
+
+R for Data Sci book - recommendation and good example of why to teach later
+those topics are covered later in - chapters 19 & 21 
+
+have goals for what you want your students to do, and have them do it as early as possible 
+
+talk about things students want to do 
+tach abstract concepts and how they are applied 
+
+book - text ming with R 
+
+datacamp data driven curriculum development 
+
+---
+### Deploying TensorFlow models with tfdeploy
+### Javier Luraschi
+
+
+rpubs.com/jluraschi
+
+packages:
+tfdeploy
+tensorflow
+keras
+tfestimator
+cloudml
+rsconnect
+kerasjs
+
+
+
+deploy models to
+tensorflow serving, cloudlm, rstudio connect 
+
+example steps:
+training - export 
+run tfdeploy
+deploy model to rstudio connect 
+
+---
+
+### What makes a great R package? 
+### Joseph Rickert
+in github
+
+
+packages:
+rcpp no 1
+mass no 2
+
+
+
+CRAN 12k packages 
+evaluate CRAN task views 
+2960 unique task views
+CRAN great resource for stats knowledge 
+
+Good package 
+does something useful for atleast a few people 
+create documentations - vingettes read.me 
+maintenance 
+well written 
+have champions promote them 
+
+packages for reproducible reaserch and data sci:
+dplyr, knitr, markdown, shiny 
+
+CRAN_PACKAGE_DB - 
+
+---
+
+### Reinforcement learning in Minecraft with CNTK-R 
+### Ali Zaidi 
+former training team at MS 
+
+project malmo 
+github.com/mivcrosoft/malmo 
+
+
+packages:
+reticulate 
+CNTK-R
+
+Minecraft for experimentation 
+
+reinforcement learning 
+
+miner - github.com/ropenscilabs/miner | craft
+
+Project malmo - ai research environment mod for AI experimentation 
+github.com/akzaidi/malmo-docker 
+
+---
+### Differentiating by data science 
+### Eric Colson
+
+@ericcolson 
+
+
+doing something better than your competitors 
+
+differentiating in business 
+
+e.g. saks, macy's, kmart high, mid, low 
+
+branding e.g. LV pattern
+
+differentiating thourgh data sci 
+Stitch Fix 
+
+algorithmns choose clothes 
+algorithms-tour.stitchfix.com 
+
+
+
+computational linguistics 
+genetics algorithmns for clothes design 
+
+most data capabiities are conceived by data scientists 
+
+
+
+---
+rOpenSci conference 
+
+R for Data Sci book -[http://r4ds.had.co.nz/](http://r4ds.had.co.nz/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
