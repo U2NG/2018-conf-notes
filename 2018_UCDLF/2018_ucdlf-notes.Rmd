@@ -43,6 +43,14 @@ DASH - ezid - data cite
 
 discussion about services- 
 
+N2T - 
+id infrastructure open
+generic, 600 diff id types 
+central ark resolver 
 
+resolves keep current url stable 
+sustainable upen future of ARKs 
 
+ARK Scheme 
+N2T Ark resolver 
 
