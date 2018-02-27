@@ -1,4 +1,48 @@
-2018 UC DLF 
+#2018 UC DLF 
 
-Keynote:
+#### excuse typo #### 
+
+## Keynote:
 Christine Borgman
+Data complexity
+Galzxy zoo
+center for embedded
+
+Pisa Griffin project 
+
+PUblications - what are we going to do with all this stuff?
+Grey literature
+Grey data 
+
+Publications <-> data mappnig
+
+publications <-> data:attribution
+
+data citation and analytics 
+biblio metric by source 
+
+intellectual property 
+
+FAIR 
+
+Data steward wi=o protect data through frozenon
+
+Promote resonsible faata rafgivrd 
+
+
+## EZIDs and ORICDs and CDL 
+EZID
+
+CrossRef
+
+Datacite
+
+MERRIT mint DOis
+
+DASH - ezid - data cite 
+
+discussion about services- 
+
+
+
+
