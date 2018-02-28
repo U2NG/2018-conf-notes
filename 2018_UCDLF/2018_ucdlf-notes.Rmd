@@ -3,6 +3,8 @@
 #### excuse typo #### 
 
 ## Keynote:
+# Day 1
+
 Christine Borgman
 Data complexity
 Galzxy zoo
@@ -29,6 +31,7 @@ Data steward wi=o protect data through frozenon
 
 Promote resonsible faata rafgivrd 
 
+---
 
 ## EZIDs and ORICDs and CDL 
 EZID
@@ -53,4 +56,33 @@ sustainable upen future of ARKs
 
 ARK Scheme 
 N2T Ark resolver 
+
+
+---
+ResrouceSync 
+next gen oai-pmh 
+
+AWS lambda 
+
+JIIIFY image API
+
+collaborative open gis
+
+---
+
+# UCDLFx - Day 2
+
+** Library Carpentry: Data and Software Skills Training for Librarians **
+Library Carpentry is an open education volunteer network and lesson organization dedicated to teaching librarians data and software skills. The goal is to help librarians better engage with constituents and improve how they do their work. This talk will serve as an introduction on how Library Carpentry formed in 2015, evolved as a global community of library professionals and will continue as a future sibling of the Carpentries, an umbrella organization of distinct lesson organizations, such as Data and Software Carpentry. We’ll cover existing collaborative lesson development, curricula coverage, workshop activities and the global instructor community. We’ll then talk about the future coordinating activities led by the UC system to align and prepare for a merging with Data and Software Carpentry.
+
+** Launching the Digital Lifecycle Program @ UCB **
+In FY2018, UC Berkeley is launching an expanded program to convert, preserve and publish our physical collections as digital collections. Called the Digital Lifecycle Program, the effort aims to digitize and publish the major collections of UC Berkeley over the next decade. This session will recap our planning process and present the operational framework that is being created.
+
+
+
+
+
+
+
+
 
