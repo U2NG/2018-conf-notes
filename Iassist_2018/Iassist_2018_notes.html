@@ -322,7 +322,7 @@ $(document).ready(function () {
 <h4>Plenary 1: Roberto Rocha (DB Clarke Auditorium, Hall Building)</h4>
 <p>Abstract Data Journalism: Dispatches from the Frontiers of Data Science and Storytelling</p>
 <p>Data journalism is the marriage of social science and public-interest storytelling, using data as a source and employing reproducible analysis methods to arrive at a conclusion. This is a radical change from traditional ways of reporting, which often rely on anecdotes and paper documents. But despite being at its heart journalism, where crafting a gripping narrative is just as important as getting the facts right, data journalists haven’t always been good at telling stories. This is changing, and we’re entering a golden age of storytelling based on data and stats.</p>
-<p>Biography Roberto Rocha is a digital journalist and educator who specializes in data-driven reporting and storytelling. Mr. Rocha has worked with CBC Montreal since 2015, and formerly the Montreal Gazette from 2005 to 2015. He is a former lecturer of Advanced Digital Journalism at the University of Ottawa. More information can be found on Mr. Rocha’s website. —-</p>
+<p>Biography Roberto Rocha is a digital journalist and educator who specializes in data-driven reporting and storytelling. Mr. Rocha has worked with CBC Montreal since 2015, and formerly the Montreal Gazette from 2005 to 2015. He is a former lecturer of Advanced Digital Journalism at the University of Ottawa. More information can be found on Mr. Rocha’s website. —</p>
 <p>data storytellers data journalism - data analysis for presentation - target audience for all need to present clear for everyone e.g. looking at census data developing narrative for data analysis and visualization uses data to find information about Canadians, e.g. analysis and viz kickstarter projects</p>
 <p>complex data - car sharing e.g. car to go mapping car 2 go data to see if parking cars take up residential spaces by car2go cars exposed urban planning probs and transportation issues</p>
 <p>site created provides info for fatal encounters by police in canada created database victims by police</p>
@@ -338,7 +338,6 @@ $(document).ready(function () {
 <p>state of gun violence video - use of data for storytelling youtube make the reader a character in the story - e.g. uber driver example</p>
 <p>e.g. the globe and mail - police dismiss sexual assault claims - story written using data</p>
 <p>NC jail inmates death poor supervision from jail man gives out most parking tickets in boston - char study using data</p>
-<hr />
 </div>
 </div>
 </div>
@@ -387,11 +386,19 @@ $(document).ready(function () {
 <li><p>Active storage:<br />
 Raw data, unprocessed data, cloud storoate, OSF - messy data</p></li>
 <li><p>Repository storage - accessible<br />
-dataverse, regional<br />
+dataverse, regional - Dalhousie &amp; Abicus - examples of dataverses<br />
+FRDR DFDR - used for large datasets “big data” creates bags and transfer with Globus - good resouce as a national repo<br />
 instit. repos - e.g. Islandora, dryad, zonodo<br />
 discipline repos - e.g. genbank</p></li>
 </ul>
 <p>use resources for storing data with metadata, sharing and accessibility</p>
+<p>storage layers:</p>
+<ul>
+<li>national discovery layer</li>
+<li>Preservation processing (under development) - narmalization of files, open format conversions e.g. archivematica, Ontario library consortia</li>
+</ul>
+<p>future planning: * distributed netowrk of curation support services * build tools and services for “active” data curation * implement geospatial discovery layer for end user * create single end-user facing platform</p>
+<hr />
 </div>
 </div>
 </div>
@@ -399,11 +406,126 @@ discipline repos - e.g. genbank</p></li>
 <h3>RDM roadmap to the future, Or, Lords and Ladies of the data</h3>
 <div id="robin-rice" class="section level4">
 <h4>Robin Rice</h4>
+<p>serivce owner: data librarian data curators &amp; user support staff software enginners compute infrastruc. staff</p>
+<p>U of E 3 part <a href="https://www.ed.ac.uk/is/rdm-roadmap">Roadmap</a> - living document</p>
+<p>implementing a Single unified RDM service: * simplified data life cycle before research project, during project, after, training and support</p>
+<p>1 service question to think about for unified RDM services: where do you draw the line between data and compute?</p>
+<p>trying to build a mature single level of service: standarizing different parts of the services.<br />
+focus/target on disciplines or domains as much as possible</p>
+<p>Services:<br />
+DMP - key component for the service, get people thinking ahead of serivce uses ahead of time, work with school to make a DMP requirement as a part of the curriculum software management planning - how to manage software sustainablity e.g. reporducing data at a software level</p>
+<p>Working with data: developing secure sensitive data, iso22001, using github and gitlab - currently using subversion, get reseachers to use ELNs DATA SAFE HAVEN</p>
+<p>Data stewardship options/goals: enhancing display 0- including multimedia Data vault - GDPR - secure long-term storage embrace new tech and metadata standards for curating and providing access to research images communication about complexity of open and closed options<br />
+FAIR repository development</p>
+<p>Training and support:<br />
+need new communication plan document<br />
+annoynimization training for sensitive data<br />
+periodic GDPR training</p>
+<p>challenges:<br />
+getting through workload<br />
+managing stakeholders expectations<br />
+keep up with field of RDM<br />
+rearching beyond early adopters<br />
+getting people to think abour FAIR<br />
+Scholarly publishing competition vs Open</p>
+<hr />
 </div>
 </div>
 <div id="implementing-new-data-management-and-curation-services-at-the-university-of-arizona-ua-lessons-learned-from-the-ua-data-management-and-data-curation-pilot" class="section level3">
-<h3>Implementing new data management and curation services at the University of Arizona (UA): Lessons learned from the #### UA data management and data curation pilot</h3>
-<p>Christine Kollen</p>
+<h3>Implementing new data management and curation services at the University of Arizona (UA): Lessons learned from the UA data management and data curation pilot</h3>
+<div id="christine-kollen" class="section level4">
+<h4>Christine Kollen</h4>
+<p>RDM services:<br />
+training, develop RD ecosystem - integrating data, code, workflows, other scholarly artifacts Implementing FAIR practices</p>
+<p>Campus data management Advisory committee (2011)</p>
+<p>Libraries, ResearchIT, research office</p>
+<p>sent out a RMD survey - 375 respones, included asking intrest and willingness to pay for services</p>
+<p>Pilot funded by libraries, UITS, RDI, health sciences</p>
+<p>Pilots:<br />
+Entomology - post-docs and students what did the need?<br />
+Engineering education - moving data from excel to SQL database, document python script, and de-identifying data<br />
+Wildlife Biology - file versioning, access and management protocols, managing student datases, sharing archived data<br />
+Cancer research project - nih grant review, study closure and disposition, good DM practices<br />
+Public Health - document and version control, document data workflow and data protocols<br />
+- recommended using Trello for file tracking</p>
+<p>RDM workshop bolstered researcher credibility with PIs</p>
+<p>Training recommentation:<br />
+offer for-credit class in RDM - offer training and support services at new fac. orientation and beginning of grants<br />
+good for service promotion<br />
+training for liaisons</p>
+<p>user OSF for institutions<br />
+data literacy workshop for post-docs, grads and fac<br />
+best practices workshops for grad students, integrate into grad level courses in collaboration with liaisons<br />
+provide training for liaisons</p>
+<p>only 2 people developing/scaling services</p>
+<p>New staff:<br />
+RDM spec<br />
+DS spec<br />
+GIS spec<br />
+Preservation Spec<br />
+metadata spec</p>
+<hr />
+</div>
+</div>
+<div id="after-lunch-session" class="section level3">
+<h3>After Lunch Session</h3>
+<hr />
+</div>
+</div>
+<div id="improving-data-curation-workflows" class="section level1">
+<h1>Improving Data Curation Workflows</h1>
+<div id="session-chair-bobray-bordelon-princeton-university" class="section level4">
+<h4>Session Chair: Bobray Bordelon, Princeton University</h4>
+</div>
+<div id="caring-for-sharing-improving-self-deposit-repository-publishing-systems" class="section level3">
+<h3>Caring for sharing: Improving self-deposit repository publishing systems</h3>
+<div id="anca-daniela-vlad" class="section level4">
+<h4>Anca Daniela Vlad</h4>
+<div id="reshare-self-desposit-data-service" class="section level5">
+<h5>ReShare: Self desposit data service</h5>
+<p>UK Data Service 1305 collections - variety of disciplines</p>
+<p>online repo - archive pub and share data - self-deposit<br />
+studies indexed using the HASSET metadata profile is DDI schema access controls customized for each collection<br />
+files accepted zip or individual files<br />
+top data ingested SocSci - psyc, econ, society<br />
+top data types - qualitative and mixed methods &amp; Experimental data</p>
+</div>
+<div id="ingest-process" class="section level5">
+<h5>ingest process:</h5>
+<p>deposit pushed for review<br />
+sent back for edits<br />
+no edits, data is published and minted DOI</p>
+<p>Analytics tracked by Google Analytics</p>
+<p>user traffic/visits: search engines, URLs, social media via twitter</p>
+<p>tested mobile devices for viewing issues - very minimal usage</p>
+</div>
+<div id="training" class="section level5">
+<h5>Training:</h5>
+<p>workshops, webinars, and drop-in sessions - primarily shows how to deposit into the system<br />
+step-by step training: edit collections: data collections</p>
+<p>On going DM training<br />
+Open access<br />
+QAMYData - free tool/service that auto detects some of the most common problems in survey and other numeric data and creates “data health” check</p>
+</div>
+</div>
+</div>
+<div id="forsbase-implementing-the-fair-principles-for-social-science-data-archives" class="section level3">
+<h3>FORSbase: Implementing the fair principles for social science data archives</h3>
+<div id="stefan-buerli" class="section level4">
+<h4>Stefan Buerli</h4>
+</div>
+</div>
+<div id="facilitating-research-data-access-supporting-data-management-and-curation-with-community-driven-solutions" class="section level3">
+<h3>Facilitating research data access – supporting data management and curation with community driven solutions</h3>
+<div id="wolfgang-zenk-moltgen-monika-linne-jonas-recker" class="section level4">
+<h4>Wolfgang Zenk-Möltgen; Monika Linne; Jonas Recker</h4>
+</div>
+</div>
+<div id="optimizing-data-ingest-experiences-from-icpsr" class="section level3">
+<h3>Optimizing data ingest: Experiences from ICPSR</h3>
+<div id="jared-lyle-abay-israel-justin-noble" class="section level4">
+<h4>Jared Lyle; Abay Israel; Justin Noble</h4>
+</div>
 </div>
 </div>
 

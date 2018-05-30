@@ -19,7 +19,7 @@ Data journalism is the marriage of social science and public-interest storytelli
 
 Biography
 Roberto Rocha is a digital journalist and educator who specializes in data-driven reporting and storytelling. Mr. Rocha has worked with CBC Montreal since 2015, and formerly the Montreal Gazette from 2005 to 2015. He is a former lecturer of Advanced Digital Journalism at the University of Ottawa. More information can be found on Mr. Rocha’s website.
-----
+---
 
 data storytellers
 data journalism - 
@@ -67,7 +67,7 @@ e.g. the globe and mail - police dismiss sexual assault claims - story written u
 NC jail inmates death poor supervision from jail
 man gives out most parking tickets in boston - char study using data
 
----
+
 
 # Road Maps for RDM Services, What Next?
 #### Session Chair: Rachel Walton, Rollins College
@@ -119,7 +119,6 @@ assessment of program - to see how effective marketing and services
 
 
 
-
 ### CARL Portage: The RDM journey continues...
 #### Jeff Moon; Shahira Khair; Lee Wilson
 ##### Expert groups available:
@@ -157,37 +156,185 @@ FRDR - DFDR data repositories
 Raw data, unprocessed data, cloud storoate, OSF - messy data   
 
 * Repository storage - accessible  
-dataverse, regional  
+dataverse, regional - Dalhousie & Abicus - examples of dataverses  
+FRDR DFDR - used for large datasets "big data" creates bags and transfer with Globus - good resouce as a national repo  
 instit. repos - e.g. Islandora, dryad, zonodo  
 discipline repos - e.g. genbank  
 
 use resources for storing data with metadata, sharing and accessibility 
 
+storage layers:
+
+* national discovery layer 
+* Preservation processing (under development) - narmalization of files, open format conversions 
+e.g. archivematica, Ontario library consortia 
 
 
+future planning:
+* distributed netowrk of curation support services 
+* build tools and services for "active" data curation 
+* implement geospatial discovery layer for end user
+* create single end-user facing platform
 
-
-
-
-
-
-
-
-
-
-
-
+---
 
 ### RDM roadmap to the future, Or, Lords and Ladies of the data
 #### Robin Rice
+serivce owner: data librarian
+data curators & user support staff
+software enginners 
+compute infrastruc. staff
+
+U of E 3 part [Roadmap](https://www.ed.ac.uk/is/rdm-roadmap) - living document 
+
+implementing a Single unified RDM service:
+* simplified data life cycle 
+before research project, during project, after, training and support
+
+1 service question to think about for unified RDM services: where do you draw the line between data and compute?
+
+trying to build a mature single level of service: standarizing different parts of the services.  
+focus/target on disciplines or domains as much as possible 
+
+Services:  
+DMP - key component for the service, get people thinking ahead of serivce uses ahead of time, work with school to make a DMP requirement as a part of the curriculum 
+software management planning - how to manage software sustainablity e.g. reporducing data at a software level   
+
+Working with data:
+developing secure sensitive data, iso22001, using github and gitlab - currently using subversion, get reseachers to use ELNs DATA SAFE HAVEN 
+
+Data stewardship options/goals:
+enhancing display 0- including multimedia
+Data vault - GDPR - secure long-term storage
+embrace new tech and metadata standards for curating and providing access to research images 
+communication about complexity of open and closed options  
+FAIR repository development 
+
+Training and support:   
+need new communication plan document    
+annoynimization training for sensitive data   
+periodic GDPR training   
+
+challenges:   
+getting through workload   
+managing stakeholders expectations   
+keep up with field of RDM    
+rearching beyond early adopters   
+getting people to think abour FAIR    
+Scholarly publishing competition vs Open    
+
+
+---
+
+### Implementing new data management and curation services at the University of Arizona (UA): Lessons learned from the UA data management and data curation pilot
+#### Christine Kollen   
+RDM services:  
+training, develop RD ecosystem - integrating data, code, workflows, other scholarly artifacts 
+Implementing FAIR practices   
+
+Campus data management Advisory committee (2011)   
+
+Libraries, ResearchIT, research office    
+
+sent out a RMD survey - 375 respones, included asking intrest and willingness to pay for services   
+
+Pilot funded by libraries, UITS, RDI, health sciences    
+
+Pilots:   
+Entomology - post-docs and students what did the need?    
+Engineering education - moving data from excel to SQL database, document python script, and de-identifying data   
+Wildlife Biology - file versioning, access and management protocols, managing student datases, sharing archived data  
+Cancer research project - nih grant review, study closure and disposition, good DM practices   
+Public Health - document and version control, document data workflow and data protocols    
+  - recommended using Trello for file tracking   
+
+
+RDM workshop bolstered researcher credibility with PIs    
+
+Training recommentation:   
+offer for-credit class in RDM - offer training and support services at new fac. orientation and beginning of grants  
+good for service promotion   
+training for liaisons    
+
+user OSF for institutions   
+data literacy workshop for post-docs, grads and fac   
+best practices workshops for grad students, integrate into grad level courses in collaboration with liaisons    
+provide training for liaisons   
+
+
+only 2 people developing/scaling services    
+
+New staff:   
+RDM spec  
+DS spec   
+GIS spec  
+Preservation Spec   
+metadata spec   
+
+---
+
+###  After Lunch Session
+
+---
+
+# Improving Data Curation Workflows
+#### Session Chair: Bobray Bordelon, Princeton University
+
+
+
+### Caring for sharing: Improving self-deposit repository publishing systems
+#### Anca Daniela Vlad
+
+##### ReShare: Self desposit data service 
+UK Data Service 
+1305 collections - variety of disciplines 
+
+online repo - archive pub and share data - self-deposit   
+studies indexed using the HASSET 
+metadata profile is DDI schema 
+access controls customized for each collection   
+files accepted zip or individual files  
+top data ingested SocSci - psyc, econ, society   
+top data types - qualitative and mixed methods & Experimental data   
+
+##### ingest process:     
+deposit pushed for review   
+sent back for edits   
+no edits, data is published and minted DOI   
+
+Analytics tracked by Google Analytics 
+
+user traffic/visits: search engines, URLs, social media via twitter   
+
+tested mobile devices for viewing issues - very minimal usage   
+
+##### Training:   
+workshops, webinars, and drop-in sessions - primarily shows how to deposit into the system   
+step-by step training: edit collections: data collections    
+
+On going DM training   
+Open access   
+QAMYData - free tool/service that auto detects some of the most common problems in survey and other numeric data and creates "data health" check    
 
 
 
 
 
 
-### Implementing new data management and curation services at the University of Arizona (UA): Lessons learned from the #### UA data management and data curation pilot
-Christine Kollen
+
+### FORSbase: Implementing the fair principles for social science data archives
+#### Stefan Buerli
+
+
+
+### Facilitating research data access – supporting data management and curation with community driven solutions
+#### Wolfgang Zenk-Möltgen; Monika Linne; Jonas Recker
+
+
+
+### Optimizing data ingest: Experiences from ICPSR
+#### Jared Lyle; Abay Israel; Justin Noble
+
 
 
 
