@@ -69,21 +69,124 @@ man gives out most parking tickets in boston - char study using data
 
 ---
 
-## Road Maps for RDM Services, What Next?
+# Road Maps for RDM Services, What Next?
 #### Session Chair: Rachel Walton, Rollins College
 
-Scaling up RDM services at Duke University: Where we are now, what we have learned, and where we are going
-Jennifer Darragh; Sophia Lafferty-Hess
+### Scaling up RDM services at Duke University: Where we are now, what we have learned, and where we are going
+#### Jennifer Darragh; Sophia Lafferty-Hess
+
+looking at teams specifically for the repository development 
+worked with liaison librarians - for presenting services to the greater community 
+
+launched services in 2017 
+
+RDM education: dev 12 unique workshops 
+wroked with deam of academic affiars for grads - developed program all grads required to take 6 hours for credit 
+challenge content cannot cover all disciplines
+workshops e.g.
+IRB
+Research computing 
+
+life cycle based services: based on environmental scanning
+DMPs 
+active project workflow management 
+preservation and access services 
+
+challenges:
+distributed collaborative research - uses OSF for collaborative project solution 
+
+
+repo services: 
+moving to Fedora
+preingest reveiw of data files 
+streamlined deposit process - pre ingest process included 
+
+what works:
+DOis 
+pre-publication review 
+apply FAIR standards 
+connections and collaborations with groups on campus e.g. events for DMP reviews DMPTool 
+Data management education important - hearing about tools to use , challenge - don't know if practices are being followed 
+
+marketing services continuously...
+
+future processes:
+increase marketing and outreach 
+
+develop and offer discipline-specific wrokshops
+DM fundamentals for Socsci, humanities, etc. - working with liaison libraians 
+assessment of program - to see how effective marketing and services 
+
+
+
+
+### CARL Portage: The RDM journey continues...
+#### Jeff Moon; Shahira Khair; Lee Wilson
+##### Expert groups available:
+DMP
+curation
+data discovery
+Preservation
+Training
+Research Intelligence
+
+##### Working groups:
+dataverse
+Responsible reseearch data management practices for sensitive data
+
+* issues with sensitive data:
+how to mange sensitive data
+
+* stakeholder engagement:
+regional provincial - 4 library consortia
+
+* Development of tri-agecy RDM infratstruce and policy:
+what do institutions need - 
+institutional strategy - providing guidnace
+DMPs - uses DMP Assistant tool - moving to DMP Roadmap (DMPTool)
+tri-agency policy will encourage DMP creation 
+
+
+* Deposit:
+partner with other institutions
+Dataverse North
+FRDR - DFDR data repositories 
+
+##### Federated RDM Architecture: Repository 
+* Active storage:  
+Raw data, unprocessed data, cloud storoate, OSF - messy data   
+
+* Repository storage - accessible  
+dataverse, regional  
+instit. repos - e.g. Islandora, dryad, zonodo  
+discipline repos - e.g. genbank  
+
+use resources for storing data with metadata, sharing and accessibility 
 
 
 
 
 
-CARL Portage: The RDM journey continues...
-Jeff Moon; Shahira Khair; Lee Wilson
-RDM roadmap to the future, Or, Lords and Ladies of the data
-Robin Rice
-Implementing new data management and curation services at the University of Arizona (UA): Lessons learned from the UA data management and data curation pilot
+
+
+
+
+
+
+
+
+
+
+
+### RDM roadmap to the future, Or, Lords and Ladies of the data
+#### Robin Rice
+
+
+
+
+
+
+### Implementing new data management and curation services at the University of Arizona (UA): Lessons learned from the #### UA data management and data curation pilot
 Christine Kollen
 
 
