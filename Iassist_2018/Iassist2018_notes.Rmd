@@ -1,0 +1,72 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+# Iassist 2018 - Montreal  
+##Day 1  
+Keynote   
+
+####Plenary 1: Roberto Rocha (DB Clarke Auditorium, Hall Building)  
+Abstract
+Data Journalism: Dispatches from the Frontiers of Data Science and Storytelling
+
+Data journalism is the marriage of social science and public-interest storytelling, using data as a source and employing reproducible analysis methods to arrive at a conclusion. This is a radical change from traditional ways of reporting, which often rely on anecdotes and paper documents. But despite being at its heart journalism, where crafting a gripping narrative is just as important as getting the facts right, data journalists haven't always been good at telling stories. This is changing, and we're entering a golden age of storytelling based on data and stats.
+
+Biography
+Roberto Rocha is a digital journalist and educator who specializes in data-driven reporting and storytelling. Mr. Rocha has worked with CBC Montreal since 2015, and formerly the Montreal Gazette from 2005 to 2015. He is a former lecturer of Advanced Digital Journalism at the University of Ottawa. More information can be found on Mr. Rocha’s website.
+----
+
+data storytellers
+data journalism - 
+data analysis for presentation - target audience for all 
+need to present clear for everyone
+e.g. looking at census data
+developing narrative for data analysis and visualization 
+uses data to find information about Canadians, e.g. analysis and viz kickstarter projects 
+
+complex data - car sharing e.g. car to go 
+mapping car 2 go data to see if parking cars take up residential spaces by car2go cars
+exposed urban planning probs and transportation issues 
+
+site created provides info for fatal encounters by police in canada 
+created database victims by police 
+
+ML example - buzzfeed US spy planes flying over cities - using public flight data records 
+
+ProPublica - Machine bias project predicting reoffending criminals - data profiling black men. because of overrepresentation of data , e.g. watchdog technology 
+
+data journalism - data analysis for developing stories 
+
+computer assisted reporting - old term for data journalism
+software improvements 
+push for gov to release data - e.g. montreal open data advocacy groups portail donnees , quebec (open quebec) Open North gov data effort 
+
+NICAR - nat. institute compute assisted reporting 
+
+big graphics - make the user figure out the story 
+communicate clearly and honestly - create the story 
+
+e.g. jeff bezo banning powerpoints 
+data scientists = storytellig
+
+freytag's dramatic arch for storytelling 
+
+e.g. pinellas county - tampa bay times
+uses freytag arch for storytelling
+
+state of gun violence video - use of data for storytelling youtube
+make the reader a character in the story - e.g. uber driver example 
+
+e.g. the globe and mail - police dismiss sexual assault claims - story written using data
+
+NC jail inmates death poor supervision from jail
+man gives out most parking tickets in boston - char study using data
+
+---
+
+
+
+
+
+
