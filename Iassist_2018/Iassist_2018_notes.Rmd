@@ -461,6 +461,8 @@ setup methods to receive user feedback, various audience and users
 ## Afternoon session
 
 ---
+
+
 ## Putting the CURATE Model in Practice: Training for Data Curation [Panel]
 #### Session Chair: Wendy Kozlowski, Cornell University
 
@@ -483,6 +485,51 @@ file format
 disciplines   
 
 share curation staff across institutions:  DCN  
+
+Curation training pilot   
+awarded grant from IASSIST  
+1 1/2 days introductory workshop   
+
+curriculum:   
+foundations of curation overview   
+CURATE model training   
+Panel presentations    
+Student Project    
+
+CURATE:   
+checking files and metadata - files ope, code runs, metadata, docs  
+understand  and run files- QA, hidden docs, doc for reuse   
+request- missing info or changes  
+augment- submissions with metadata   
+transform- 
+evaluate- rate the submission for FAIRness scorecard    
+
+check list link in slides...    
+
+training goals:   
+define data curation , why it's needed, explorer library involvement   
+
+Student project requirment:  
+reflected on the curation activities learned and applied in the workshop   
+2 things to do
+expected challenges   
+resources needed   
+short-term goals   
+
+
+E.g. check current datasets for FAIRness   
+
+long-term impact   
+gran project create intermediate to advanced lessons  
+
+
+---
+
+
+# Day 2
+
+---
+
 
 
 
