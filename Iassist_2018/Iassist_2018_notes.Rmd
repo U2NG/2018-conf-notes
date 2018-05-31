@@ -530,10 +530,190 @@ gran project create intermediate to advanced lessons
 
 ---
 
+## Plenary 2: Dr. Stephanie Pyne (DB Clarke Auditorium, Hall Building)
+#### Abstract
+##### Cybercartography and Inclusion:  The Residential Schools Land Memory Mapping Project
+
+Providing an inclusive space for many perspectives and encouraging people to express themselves in their own ways is a key ingredient of the kind of deliberative democracy envisioned in Inclusion and Democracy by Iris Marion Young, who recommended a broad approach to rationality that can accommodate alternative forms of communication such as greeting, rhetoric, and narrative.  Inclusion is also central to the critical cartographic view of the map as both a process and a narrative vehicle capable of reflecting multiple dimensions. The critical turn in cartography has led to a vast new range of possibilities for mediating reconciliation and social justice initiatives worldwide. Cybercartography is an evolving theoretical and practical framework for transdisciplinary collaborative projects to develop online interactive multimedia atlas websites intended to present multiple perspectives and dimensions of socioeconomic, political and cultural issues. Research began in 2007 on the prototype Cybercartographic Atlas of Indigenous Perspectives and Knowledge (Great Lakes-St. Lawrence Region), which provided the basis for the five-year SSHRC-funded Lake Huron Treaty Atlas Project (2009-2014), and in turn led to the current five-year SSHRC-funded Residential Schools Land Memory Mapping Project (RSLMMP, 2015-2020). This discussion tracks the evolution of the RSLMMP with a focus on inclusivity, emergence and the transdisciplinary research relationships that have developed through this evolution.
+
+### Biography
+Dr. Stephanie Pyne is a Post-Doctoral Fellow at the Carleton Geomatics and Cartographic Research Centre. A multidisciplinary researcher with policy experience working with the Justice Department, Dr. Pyne’s PhD work involved creating a cybercartographic atlas intended to shed light on the many dimensions of treaty relationships, including those under the Robinson Huron Treaty. In her current Post-Doctoral research assignment under the Residential Schools Land Memory Mapping Project (Social Sciences and Humanities Research Council of Canada Insight Grant, 2015-2020, PI, Dr. D.R. Fraser Taylor), she works with others in the Residential Schools reconciliation research and education community to expand the work undertaken in her doctoral and post-doctoral studies.
+
+---
+
+Cybercartography and inclusion: the residential schools land memory mapping project 
+
+critical geography - concept of space interms of relationships 
+critical cartography - performance emergence
+
+mappings - expereince indiginous 
+
+cybercartography - atlas narrative vehicles, place as organizing principles 
+
+critical cartography - 
+seven elements of cyber cartography  
+multisensory   
+uses multimedia formats   
+highly interactive   
+wide range of topics of intresest no just location finding    
+not a stand alont project like traditional map    
+compiled by teams of individuals from various disciplines   
+involves new research partnershipa among academia, gove, civl society and private sector   
+
+
+ e.g. websites cybercartographic atlases:   
+ 
+showing weather/temps in various parts of antarctica   
+
+Cybercartogaphic canada's trade with the world site   
+
+pilot atlas of the risk of homeless site   
+
+artic bay atlas   
+ 
+
+GCRC carlton site : under Output link  - shows all the atlases   
+GCRC site is an Atlas but looks like a website    
+
+Thule Atlas  
+
+New concetps and approaches:   
+geo-transctiption  
+mapping epiphany   
+spatializing history   
+tow-pronged and braided approach    
+transdisciplnarity   
+iterative processes    
+reflexivity    
+
+
+[lake huron traty atlas](http://lhta.ca)  
+
+Survey Journeys Map Module   
+
+---
+
+# Session 1 - Day 2
+
+## Professional Development in Data Services for Librarians
+#### Session Chair: Amy Pienta, ICPSR, University of Michigan
+
+
+## Building a bridge among experts: Data boot camp for East Asian studies librarians at the University of Michigan, United States
+#### Jungwon Yang
+
+2017 korean data workshop for east asian data service   
+
+subject librairans needed to know about inst. repo and research data services   
+building consultations accross units   
+encourage conversations with faculty esp. in RDM service  
+hire a data librarian for data consultation/management services   
+
+need for data literacy ed. for regional experts    
+
+korean data examples  
+census population data   
+
+positive feedback about workshop  
+
+future planning text mining 
 
 
 
 
+## Surveying the data liberators: The Canadian academic data landscape in 2017
+#### Alexandra Cooper; Marilyn Andrews; Elizabeth Hill; Sandra Keys
+
+Data Liberation Initiative  - DLI    
+22 year old program   
+
+Survey objectives:  
+srvices materials needed   
+training and ed   
+satisfaction of services  
+expertise   
+
+overall repsonse rates  - 70%   
+
+Data services question results   
+teaching access/use data delivery tools high percentage 
+
+Data services support popularity: 
+dataverse  
+spatial data  
+data analysis  
+Research Data center  
+enhance metadata   
+RDM  
+
+RDM surveyed:   
+48% has RDM services at libraries  
+West canada had more   
+RDM services are primarily in the library    
+workshops/training  positive responses   
+why people didn't attend training - proportion of data to entire job, level of complexity of training   
+
+growth in GIS use - GIS is more interdisciplinary, possible reason for increase in use  
+integration of GIS and data   
+RDM front and center   
+
+
+## Professional development of academic data librarians: A Canadian example
+#### Elizabeth Hill; Siobhan Hanratty
+
+
+Data Liberation Initiative  
+
+Early data services in canada:
+1963 at UBC  
+1967 Carelton
+1972 UWO 
+
+data services found in social science centers   
+
+Development of Training accross canada:
+train the trainer and peer training   
+
+training is essential for establishing a service   
+peer led environment   
+
+3 day training workshop 
+content - identify gaps and knowledge skills   
+
+4-5 regional training workshops   
+IASSIST/CAPDU 2003   
+
+traninig curriculum:
+data services  
+data management   
+data structure   
+data content   
+
+early training focused on establishing and maintaining a data service   
+survey of database content   
+statistical literacy and practice   
+
+Recent training focuses:
+operating a data service - supporting  
+survey and database content - census
+Statistical literacy and practice - stats conecpts 
+spceciliozed topics - mapping and viz, open data, RDM
+
+
+less of a focus on using a computer and applications  
+
+things still focused on   facing the feat 
+mapping/GIS continues to group in popularity  
+wide training options:   
+in-person training - hands on   
+DLI webinars   
+training repo  
+email lists  
+
+DLI survival guilde
+
+
+---
 
 
 
