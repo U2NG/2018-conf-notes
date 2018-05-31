@@ -891,6 +891,104 @@ better information architecture, correlation between city portal and state evlau
 look at political influence accross states to see if the election has an influence   
 
 
+--- 
+
+# last session Day 2 
+
+--- 
+
+## Instruction: Data Management Skills
+#### Session Chair: Sandra Keys, University of Waterloo
+
+---
+
+## The thrilling tales and derring-do of data librarians and digital scholarship
+#### Heather Whipple
+
+Data and the creation of meaning  - bringing the humanities to the data conference - article  
+
+From data to the creatin of meaning - bringing the humanities to the data conference - article 
+data librarians translate between datasets and users  
+data services involve literal and metaphorical translation with mltile fluencies  
+
+questions to ask:   
+what is a data librarian?  
+what is digital scholarship?   
+how do we define data services?  
+how might data librairans translate data services into digital scholarship services?  
+
+Doug zonker chicken chicken example, data viz tells the story  
+data and digital scholarship umbrella terms - means nothing   
+what are the services we can provide if these terms mean something to someone?  
+
+identify priorities upfront
+
+
+## Preserving the agricultural data story at the Ontario Agricultural College
+#### Michelle Edwards; Carol Perry
+
+appraoches used to teach RDM to academics working in aggie and environmental field 
+received major project funding from different funds.  
+large reserach scope with a variety of data   
+** socsci data  
+* health sci data  
+* environmental data   
+* aggie data   
+
+goal for college researchers to incorporate RDM in their daily research activities   
+
+Teach RDM best practices  
+how vital metadata is for pres, discovery, re-use  
+highlight importance of documentation and preservation for the future  
+*teach metadata without scaring them off  
+
+researchers want safe, secure, and searchable. 
+
+4 week Workshop e.g.   
+*scenario based training - focused on end product   
+4 x 2 hr sessions   
+1 session wk   
+
+RDM best practices with gathering metadata through the cycle   
+
+organize and doc:   
+overview of RDM and dmp   best practices to structure project data, faterh info , collect data  
+exercises:  create proj. direc.  and organize files, rename files
+
+Store and analyze data:
+review stats packages, R, stata spss  
+use of excel in analysis   
+groups work on data sets:  look at variables and apply labels   
+
+Secure, preseve, share and reuse:  
+best practices to preseve data legacy  
+*data access, dmp
+*codebooks, user guides, scripts   
+*prepare for deposit   
+*repository options   
+Exercise e.g. look at data and determine what to keep and share  
+
+
+Review:  
+create DMP using DMP Assistant  
+show dataverse for data deposit example   
+
+
+
+
+
+
+
+## Sustaining our data through data management - it's easier than you think!
+#### Jane Fry; Carol Perry
+
+
+
+
+
+## A follow-up study on data management and data sharing training in graduate education in the social sciences
+#### Ashley Doonan; Evan Cosby
+
 
 
 
