@@ -715,9 +715,180 @@ DLI survival guilde
 
 ---
 
+# Afternoon session  
+
+---
 
 
 
+## Open Data: Strategies for Sharing Government and Research Data
+#### Session Chair: Lynda Kellam, University of North Carolina at Greensboro
+
+
+
+### Where does Canada's social science research data live? An evaluation of data disposition [Paper included]
+#### Peter Webster
+Canadian research data repository inventory to locate where research data lives   
+work to update Canadian data repos   
+Sholar's portal, re3data, National research council of Canada 
+
+
+23 SocSci related repos    
+97 life sci  
+71 natural sci  
+11 engineering   
+ 
+
+SocSci mostly Canadian universities, provincial government - Dataverse instances used for a good number   
+
+E.g. data services  
+BC Abacus  
+Canada Health infoway   
+Scholars portal list   
+Portage   
+SAGE Dataverse  
+U. of Alberta Dataverse instance  
+
+Other sources of Canadia reserach data:   
+Portage federated research data repo FRDR
+ICPSR - Statistics Canada data  
+FAIRsharing.org   
+Harvard Dataverse   
+Medeley Data 
+
+General data repo:  
+Figshare  
+Dryad  
+Zenodo  
+
+
+Elsivier: recommends ICPSR 
+Springer Nature:  OpenICPSR, Harvard Dataverse, UK data service reShare, & OSF   
+
+Taylor and Francis: dryad, figshare, zenodo, mendeley data, HD, 4tu.datacentrum, ANDS, and OSF 
+
+WIley and Sage:  
+
+More work needed to consolidate Canadian listing in re3data, fairsharing, portage FRDR  
+Duplicate access needs to be reviewed 
+
+
+
+## Enabling cross-search across social science data archives in Japan-initiative as part of national endeavor to establish open science infrastructure
+#### Brian Mandikiana; Lois Timms-Ferrara; Marc Maynard; David Howell
+
+japan several small socsci data archives (SSDA)  
+not interconnected, not cross searchable, not connected organizationally   
+
+
+risk data loss from being shutdown because of limited poeple support,  need to make archives finable and cross-searchable  
+need to enhacve visibility domescitally and internat.   
+
+RDM and open sci in japan:  
+2015 promoting open sci in japan - cabinet office   
+
+Open sci report similar to rest of the world,  open and acessible data requirements   
+
+
+National institute in informatics  (NII) - provides 100gb backbone network, highspeed internat. lines between USA, EU, japan   
+Scholarly information - journal articles, Catalog information, research information   
+
+Services:  CiNii, JAIRO, CiNii books, 
+
+
+808 institutional repos in japan   
+ 
+reserach data infrastucture for Open sci:  Nii Open science platform  
+working on various discovery, RDM, publication, metadata management platforms - beta version, with expectation of release in 2020  
+
+various implementation options:  
+IR layer - direct register to SS repo; transferred register to SS repo  
+home-grown or DSpace storage system optioins  
+
+discovery layer: 
+3 options  
+cross-ir discovery   
+ss-specified disvoery   
+single ssda discovery   
+
+metadata schema:  
+JAIRO cloud alows to use user-defined schema  
+for harvesting uses junii2, similar to dublin core - junii2 will be upgraded to JPCOAR schema which is for research data not just publications   
+
+DOIs:  
+japan has specialized DOI services   
+
+
+System configureations are tested thourgh pilot studies    
+RUDA @ Rikkyo University     
+
+issues:  
+metadata schema   
+how shoud the contents quality be standardized?  
+
+
+
+## Data archiving for dissemination within a Gulf nation [Paper included]
+#### Brian Mandikiana; Lois Timms-Ferrara; Marc Maynard; David Howell
+
+
+SESRI - social and economic survey research institute  
+established in 2008   
+has collected over 60 nationally representatie house hold surveys   
+eatch survey has 3 samples for each survey/  
+conduction survey    
+
+SESRI data archive eztablished in 2017   
+
+SESRI has reserach units                                                                                                          
+Dataq- ICS sharing in the Gulf, limit resource, comparative anyalsis 
+
+archive needs final projuct  leag
+
+leagal
+working oh hirin addo..
+
+student assists leff interetntd indd
+
+  done by= dicnett tge rtioLL
+  
+  data center prtal   
+  user and access support   
+  promotion - marketing the archive conference and social media 
+  
+  clear comm with stake holders is the key   
+
+
+
+## A tale of three data portals: Open government data in U.S. states
+#### Bonnie Paige
+
+opening data portals at state level of gov.  
+3 case studies 
+maine, new hapshire, vermont  
+
+Portals:   
+manie open gov data portal- dual portals, open checkbook for financial info   
+uses socrative platform   
+
+new hampshire 
+lists of links to data related information   
+
+Vermont:  
+socrative based site, flexible category menu and feature data sets  
+  
+Vermont leads with most data sets also has the most active and passive use.  
+
+New hapmsire data cannot be tract bcause of format, no information when contacted about sites.   
+policies  -NH open data standards, Versmont
+
+
+political influence in portable content 
+
+what can we contribute to make it better?   
+consisten metadata, data literarcy support e.g. how to use portals.   
+better information architecture, correlation between city portal and state evlauation framework   
+look at political influence accross states to see if the election has an influence   
 
 
 
