@@ -314,26 +314,190 @@ step-by step training: edit collections: data collections
 
 On going DM training   
 Open access   
-QAMYData - free tool/service that auto detects some of the most common problems in survey and other numeric data and creates "data health" check    
+QAMYData - free tool/service that auto detects some of the most common problems in survey and other numeric data and creates "data health" check, PII, missing data, missing labels etc.  software auto checks items from initial review process    
 
-
-
-
-
+---
 
 
 ### FORSbase: Implementing the fair principles for social science data archives
 #### Stefan Buerli
 
+what is FORS: nat. center of expertise for reserach in the soc sci in switzerland   
+production of survey data  
+consulting for researchers in switzerland    
+DARIS FORS: research inventory 10900 project descriptions, 18800 researchers, 4500 institutions, 4760 active users   
+data catalog 655 datasets - most have national importance   
+
+development:    
+needed services covering RDM life cycle of researh data   
+simplified archiving and publishing    
+
+FORSbase service:   
+Research inventory   
+data archive   
+Survey tool   
+
+Multilingual - french, german, english   
+work environment for Socscientists 
+metadata DDI   
+
+
+Inventory & archive people:   
+Researchers, FORS collaborator, researcher/consumer    
+
+FORSbase2.0:   
+Online access to all data in catalogue  
+one stop shop   
+online data deposit -  upload files and documentation while working on project   
+receive auto feedback from system when data is being downloaded   
+personal messaging system integration - sending private messages to contacts   
+automated alerts and download of datasets e.g. request granting approval for use    
+FORS Nessstar integratin for teaching   
+
+#### Open data: 
+FORSbase:    
+FAIR Data principles -    
+Made to measure soultion of data producers and users in relkation to FAIR principles and data protection laws    
+
+FAIR principles applied:    
+DOI assigned 
+DDI metadata standards, CESSDA metadata standared 
+
+Accessible:   
+DOI, freely accessible, 
+access requires vaild user account   
+study metadata is persisitent    
+
+Interopable:   
+OAIS compliant   
+DDI standard for desctiption    
+
+Reuseable:   
+Metadata related ot he nature of the data    
+information related to dataset/project    
+
+
+Future:   
+modularity to make more generic open data repo SWISSUbase    
+
+---
 
 
 ### Facilitating research data access – supporting data management and curation with community driven solutions
 #### Wolfgang Zenk-Möltgen; Monika Linne; Jonas Recker
 
+GESIS data archive for the social sciences   
+Data sharing in the Social Sciences    
+Roper center 1947 1st example of archiving data in Soc Sci    
+GESIS founded in 1960s   
+Data as "currency" - researchers data publications, research ords use data as assests that has to be managed.   
+public admin collection stats data to provide "open gov data" for re-use   
+
+challenges:   
+more data is shared, in the long-tail   
+citability expectations, accessibility, persistence fo data   
+Data as research output:   
+researchers, research orgs, funders, schol. journals commercial pubs,   
+
+Training:    
+more in RDM
+
+more challenges:   
+data sharing solutions e.g. FAIR principles   
+data sharing for new data types and sensitive data   
+linking of data and pub   
+
+new services:  
+da|ra for assignming DOIs   
+datorium service addressing single researchers for self deposit and descript.    
+replikationsserver:  
+X-econ: address experimental data    
+SowiDataNet project initiative:  addresses research organizations who want to manage their own data.   
+service supports quality of documentation, data discovery and citation, persistence bitstream for 25 years, branding  
+
+Tech: 
+dspace 5.6   
+PostfreSQL database   
+OAI-PMH protocol   
+DOIs da|ra service
+
 
 
 ### Optimizing data ingest: Experiences from ICPSR
 #### Jared Lyle; Abay Israel; Justin Noble
+
+metadata - finding the right balance and incentives to provide  
+
+legal permisiions - do they have the authority to deposit content    
+can you modify?   
+
+ICPSR process - 2007 created online form    
+simplify form - finding balance between information and length 
+simplify steps to deposit -  lots of services make it a few steps to upload and describe data   
+
+deposit workspace - went from form to workspace.  allows depositors to incrementally work on a submission as opposed to needing to upload and descripbe all files at once   
+
+collaboration - users share projects with other collaborators and grant various permissions levels to these collaborators.  this allows for multiple researchers or PIs    
+
+folder sturcture - projects needed flexibility to organize submissions in to folders    
+
+file-level metadata - depositing materials.  researchers provide information 
+
+project communication log - project log that allows for data depositor and ICPSR curators to send messages to each other.    
+
+any file type can be imported/ingested.   
+
+Deposit system improved other ICPSR tech.   
+OpenICPSR, DataLumos - stored gov data for preservation, Census    
+preview functionality on the study homepage    
+help icons   
+ICPSR metadata editor   
+
+Internal and external feedback   
+setup methods to receive user feedback, various audience and users   
+
+---
+
+## Afternoon session
+
+---
+## Putting the CURATE Model in Practice: Training for Data Curation [Panel]
+#### Session Chair: Wendy Kozlowski, Cornell University
+
+### Putting the CURATE model in practice: Training for data curation
+#### Wendy Kozlowski; Jennifer Moore; Mara Blake
+
+Wendy Kozlowski: Position in metadata services
+
+campus wide research data management services group 
+role of libraries in data curation 
+
+libraries fit in in the long-tail of data 
+libraries are good at instruction 
+
+Data Curation Network Spec kit 354
+
+scale data curation across all disciplines? 
+data curation expertise:  
+file format  
+disciplines   
+
+share curation staff across institutions:  DCN  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
