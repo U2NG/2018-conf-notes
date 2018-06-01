@@ -930,7 +930,7 @@ identify priorities upfront
 appraoches used to teach RDM to academics working in aggie and environmental field 
 received major project funding from different funds.  
 large reserach scope with a variety of data   
-** socsci data  
+* socsci data  
 * health sci data  
 * environmental data   
 * aggie data   
@@ -974,13 +974,42 @@ create DMP using DMP Assistant
 show dataverse for data deposit example   
 
 
+Review workshop Survey results  
+Bakcups for paper data are photographs of notes
+Take aways from students:   
+readme files   
+data preservation   
+plan project before starting   
+data organization   
 
-
+remind students importance to organize data...document   
+request for inclass sessions   
 
 
 
 ## Sustaining our data through data management - it's easier than you think!
 #### Jane Fry; Carol Perry
+
+Protage training resources on the site  - free to use    
+white paper RDM training landscape in Canada   
+
+
+RDM primer handout document   
+download version 2 on website.  
+
+"good enough" research data managment handout     
+
+training modules for canadian researchers:   
+RDM101  
+DMP Asst. 101
+Training repos 101  
+
+RDM training reuqest form - simplesurvey   
+External training resource library on website    
+
+
+
+
 
 
 
