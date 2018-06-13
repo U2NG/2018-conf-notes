@@ -1,0 +1,15 @@
+---
+title: "2018_AAAS-PD-notes"
+author: "Reid Otsuji"
+date: "6/13/2018"
+output: html_document
+---
+
+# 2018 AAAS-PD, Cal Poly Pomona
+# Symposium information 
+
+Library Science is a “discipline with primarily a practical aim" (Hjørland, 1999, p. 512). This does not transmute the fact that the field is grounded in fundamental theory and research. Practice-based research can relate to specific approaches to concrete problems at individual institutions, while theoretical research is more general in nature, can be applied to multiple library environments, and is not necessarily based on concrete practices (Audunson, 2007; Chow, Shaw, Gwynn, Martensen, & Howard, 2011; Hjørland, 1999). These methods of library research complement each other and work in tandem to enrich the discipline as a whole.   
+
+This symposium will focus on both the theory and practice of librarianship in academia, which invites an all-inclusive consideration of libraries and librarians in the learning environment. From case studies involving practice at specific institutions to abstract investigations addressing aspects of the discipline at large, this symposium intends to foster a dialogue on a variety of library issues, such as instruction, reference, collection development, digitization, scholarly communication, and library leadership and management.    
+
+
