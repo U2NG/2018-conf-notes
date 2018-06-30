@@ -1,0 +1,50 @@
+---
+title: "2018_CapentryConnect UC Davis"
+author: "Reid Otsuji"
+date: "6/29/2018"
+output: html_document
+---
+
+
+## Carpentry Connects - UC Davis 2018-06
+Start up of regional meeting 
+
+9 am Jetstream 
+10 am start time Sat 
+
+##### Tidus Brown
+
+##### Tracy Teal - keynote
+
+
+Think Pair Share 
+activity - Taylor
+
+https://tinyurl.com/ccdavis2018
+
+Shared Values - things you believe are important int he way you live and work 
+important things to the community 
+
+*Open* - work openly and support people in working openly
+*Ethical* - underlying trend in what we do in the carpentries, perspective of being fair 
+*Inclusive* - want everyone to fell included and welcome in community 
+*Accessible* - resources should be accesible to all learners - need website review for materials, can people attend workshops
+*Diversity* - support and seek a diverse community, intentionally seeking out diversity, reducing barriers, share skills and perspectives with everyone 
+*reproducibility* - promote reproducibility as community norm, for future "you" 
+*evidence based practices* - use evidence-based practices in teaching and learning, community development finding what worked, look out for practices and ideas, how we teach and build community   
+*Collaborative* - value collaborative work as producing better and more sustainable outcomes, produce better outcomes.  keeping materals up-to-date    
+*learning* - live long learners, we learn as we're teaching 
+*life long teachers* - we are life long teachers, we want to teach, want to share what was learned with others.  building confidence for learners.  2012-2017 ~ 30k leaners taught.   
+*Community* - we are a community of practice through learning, teaching and sharing. we value community of practice (rubber duck debugging) idea of duck connecting to the broader community.  looking towards building local communities.  
+*Gratitude* - show appreciation for people's time and contributions, receive and give appreciation , valuing contributions to the community    
+
+
+
+
+
+
+
+
+
+
+
