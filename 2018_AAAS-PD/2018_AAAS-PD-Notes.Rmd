@@ -70,13 +70,30 @@ understand how succession planning is percevied/addressed by individ library dea
 methods  
 case study - cross analysis design   
 
-lit review - succession planning in librareis  
+lit review - succession planning in librareis  - lack of literature abotu succession planning    
+
+reseach questions about succession planning    
+
+2 deans participated in studies   
+
+dean internships were good    
+advantages of flat organizational structures    
+
+helps identify potential leaders   
+direct observation discussion wiht librairans    
+
+provide oppotunities for leadership experience    
+
+Union contract inportance/difference for middle managers   
 
 
+future research, exoand research to include more deans  
+expand looking at additional academic hierarchies   
+
+---
 
 
-
-
+BREAK    
 
 
 ---
@@ -84,10 +101,65 @@ lit review - succession planning in librareis
 ### hree Years After the Big Deal Cancellation: Examining the Data and Determining the Collection Development Implications, EMILY K. CHAN* and SUSAN L. KENDALL* (Dr. Martin Luther King, Jr. Library, San Jose State University, One Washington Square San Jose, CA 95192-0028; emily.chan@sjsu.edu; susan.kendall@sjsu.edu).
 
 
+The big deal with Wiley    
+vendor collections for purchasing for the CSU high prices caused cancellations 
+
+recouped money and neee to find out what to do with it   
+
+used funds to upgraded to EBSCO compelte as an alternative to dropping Wiley   
+
+journal access is a moving target  
+despite no subscription, wiley is stillw ell used.   
+lots of turnaway titles    
+
+will this create isseues with ILL?    
+
+
+
+
 
 ---
 
 ### Innovations in Open Science Achieved by Smart Publishing Choices, JULIA GELFAND (University of California, Irvine Libraries, Ayala Science Library 228, Irvine, CA 92612-9557; jgelfand@uci.edu).   
+
+
+
+Open science   
+best practices in schol comm   
+
+lots of benefits of OA   
+share ability and rights retention  
+
+authors need to be aware:   
+publishers can charge to publish OA content 
+
+
+publishing - preprints are diffeernce than published works   
+
+increase in predatory sources conferences, communications    
+
+assessment functions   
+metrics by output 
+
+data and impact of research and scholarship    
+opportunities for collaboration    
+build support for science from Gov   
+concerns    
+global vs local   
+what is innovation?    
+
+
+what influences ar ethere in Open science   
+open access policies - open data   
+citizen sceince movement   
+
+data management   
+demand for research data to have a safety net for a long time    
+encourage reuse     
+
+responsibilities of Openess    
+
+
 
 
 
@@ -101,16 +173,73 @@ lit review - succession planning in librareis
 
 
 
+---
+
+
+### Campus as a Living Lab: Using Your Library to Teach Sustainability! PEGGY CABRERA (San Jose State University, One Washington Square, San Jose, CA 95192-0028; peggy.cabrera@sjsu.edu).
+
+teaching students sustainability    
+IEQ 
+
+Energy and atmosphere 
+transportation and location 
+
+
+
+---
+
+### Outside of the Box Thinking: Inspiring Ways to Use Existing Library Technology to Create E-learning Objects, AMANDA ROTH (University of California, San Diego, Geisel Library, 9500 Gilman Drive, #0175Q, La Jolla, CA 92093-0175; a4roth@ucsd.edu).
+
+e-learning objects - electronically 
+used when face to face instruction isn't possible or ideal  
+support for traditional instruction 
+
+reusabel, scalable, shareable 
+
+software tools, screen casting, rapid authoring  
+
+object requirements:   
+measurealble learning outcomes - that will take place during an instruction or event   
+additinoal content -elearning object that is necessary to know but is outside of a learning outcome 
+
+mode of delivery : 
+objects delivered to learners   
+known contraints  - known limitations or restrictions that affect the developmetn or delivery of the e-object  
+
+feeback mechanizsms:   
+in what wasy will you provide feedback to learners evaluate or assess the learning.  
+
+
+
+
+
 
 ---
 
 
+### Library 101 Workshops: Emphasizing Basic Skills, PAUL HOTTINGER*, SALLY ROMERO*, JENNIFER BIDWELL*, and FREDA LIN* (California State Polytechnic University, Pomona, 3801 West Temple Avenue, Pomona, CA 91768, phottinger@cpp.edu, sallyromero@cpp.edu, jabidwell@cpp.edu, fwlin@cpp.edu).
+
+library 101 series - 
+Topics to tach 
+library tour 
+google searching 
+finding articles using oneSearch & Google Scholar 
+
+Finding & Locating books using oneSearch 
+MLA citation 
+
+APA Citation 
+
+expanded topics from 6 -12  
+
+workshop days Tues and thurs high attendence   
 
 
-Campus as a Living Lab: Using Your Library to Teach Sustainability! PEGGY CABRERA (San Jose State University, One
-Washington Square, San Jose, CA 95192-0028; peggy.cabrera@sjsu.edu).
-San Jose State University’s, King Library LEED Certification LibGuide was creat
 
+
+
+
+---
 
 
 
