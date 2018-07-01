@@ -12,7 +12,7 @@ Start up of regional meeting
 9 am Jetstream 
 10 am start time Sat 
 
-##### Tidus Brown
+##### Titus Brown - Data Intensive Bio Lab
 
 ##### Tracy Teal - keynote
 
@@ -37,6 +37,167 @@ important things to the community
 *life long teachers* - we are life long teachers, we want to teach, want to share what was learned with others.  building confidence for learners.  2012-2017 ~ 30k leaners taught.   
 *Community* - we are a community of practice through learning, teaching and sharing. we value community of practice (rubber duck debugging) idea of duck connecting to the broader community.  looking towards building local communities.  
 *Gratitude* - show appreciation for people's time and contributions, receive and give appreciation , valuing contributions to the community    
+
+
+For reviews:       
+Say what you are doing, why you are doing it, and back up with #s - metrics    
+
+adding SWC in open publications -    
+
+
+currently 60-70 train the trainers    
+
+
+report classes or workshops to carpentries curriculum used as self reporting   
+"request a workshop"
+
+can add past workshops - submit 
+
+# CarpentryConnect Day 2 - [Full Schedule](https://hackmd.io/kt_gMYKIQz2MbloD9mSCyQ?view)
+
+#### Titus Brown
+
+Jetstream instances 
+[jetstream link](https://hackmd.io/kt_gMYKIQz2MbloD9mSCyQ?edit)
+
+
+Jetstream NSF funded cloud computing using XSEDE 
+
+based on allocation not on funds  
+https://hackmd.io/vRPE9TZQTNG1_Z2WPbqXhw?view
+
+*HACkMD* - (like Etherpad)
+can use for taking notes - good resource    
+open, extensible live markdown editor    
+
+[booting an instance](https://github.com/ngs-docs/angus/blob/2018/jetstream/boot.md)    
+
+jetstream starts up as a ubuntu machine   
+bioconda and rstudio installed before hand   
+image maintenece can be an issues   
+
+Apply through XSEDE - will review and allocate compute    
+
+Terms:   
+cyber infrastructure - data commons   
+snakemake   
+
+
+Instances setup with: 
+ubuntu   
+IP address   
+copy and patse is hard to work with in Jetsteram    
+SSH turned on    
+recommended to not enable web shell    
+
+start up webshell: 
+
+open old web shell   
+
+
+## Community Development 
+Anelda van der Walt
+
+[Etherpad:](http://pad.software-carpentry.org/2018-06-30-CC-Davis)
+
+run workshops in 10 African countries   
+Mixed blended caprpentry curricula used in SA.   
+2.5 - 3-4 day long workshops    
+
+~27 instructors in Africa   
+African Task force created to provide mentorship and support    
+
+it's important to understand the continuum   
+cynefin framework - applied for business but works for best practices for sci computing    
+complex - emergent practice    
+complicated - good practice      
+chaotic -  novel practice    
+Simple -   best practice     
+
+Social Capital - resources you have access to beacuse of networks   
+
+use tweets, emails, introductions   
+
+#### Resources for study groups and more    
+https://science.mozilla.org/programs/studygroups     
+https://mozillascience.github.io/study-group-orientation/    
+https://cookbook.carpentries.org/    
+https://rladies.org/    
+https://www.r-consortium.org/projects/r-user-group-support-program     
+https://wiki.python.org/moin/StartingYourUsersGroup      
+
+
+
+search.norton.com  - safe search    
+
+
+Notes from Etherpad for UCSD resources:          
+Andrea Zonca and Carol Willing have taught SW Carpentry at SDSC at UCSD   
+Phillip Guo, CogSci, and his students may be helpful to reach out to.   
+Python User Group and PyLadies meet weekly on Saturdays at UCSD Library   
+R users group at Scripps Institution of Oceanography    
+:D. A few years ago, the Python and R communities did a full day workshop at SDSU to cross-polinate between the two communities    
+
+
+
+
+
+Saranya Canchi, Postdoc, UC San Diego, @S_Canchi 
+Carol Willing
+
+mozilla open research
+
+
+Snakemake - python/make   
+
+
+
+# Afternoon session
+
+
+[Binder Workshop](https://hackmd.io/kt_gMYKIQz2MbloD9mSCyQ?view)
+
+Carol Willing - Binder/Jupyter contributor 
+
+What is Binder:   
+using RStudio 
+
+[tutorial](https://hackmd.io/s/S1fWYzBfQ)
+
+[binder tutorial](https://github.com/binder-examples/r)
+
+workshop use:   
+create binder ahead of time before workshop    
+
+[repo2docker - tool](github.com/jupyter/repo2docker)   
+
+you can binderize Openrefine  - tim head    
+
+
+#### STEAM workshops with Binder and JupyterHub
+Carol Willing 
+
+[okgosandbox](okgosandbox.org)
+[playfulllearninglab](playfullearninglab.org)    
+
+
+web.mit.edu/music21
+
+
+good reason for using Jupyter:  documentation!    
+
+ipyvolume, BeakerX    
+
+Join binder gitter channel - to support binder    
+e.g. write about how to get up and running    
+
+jupyterhub repo gitter link    
+
+
+
+
+
+
 
 
 
